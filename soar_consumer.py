@@ -1,0 +1,1 @@
+print("SOAR consumer placeholder")
